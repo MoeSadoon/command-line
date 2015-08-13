@@ -1,1 +1,1 @@
-'cp' is the command used to copy files and directories
+'cp' is the command used to copy files and directories.
